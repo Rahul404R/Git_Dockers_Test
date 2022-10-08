@@ -1,6 +1,6 @@
 ## To print Hello world using Dockers.
-numpy
-pandas
+##numpy
+##pandas
 Flask
 fastapi[all]
 starlette
