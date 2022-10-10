@@ -1,4 +1,3 @@
-# from msilib.schema import Directory
 from fastapi import FastAPI
 from fastapi.templating import Jinja2Templates
 from starlette.responses import FileResponse
