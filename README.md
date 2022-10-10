@@ -38,7 +38,7 @@ Docker login
 ![image](https://user-images.githubusercontent.com/112580014/194936469-762d2095-af2a-4d23-90ff-fea5b39a6443.png)
 
 ```
-Docker push
+Docker push rahulr44/welcome_app
 ```
 ![image](https://user-images.githubusercontent.com/112580014/194936487-dbb023f9-b587-4949-8168-4ee749e9d638.png)
 
