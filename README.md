@@ -1,5 +1,15 @@
-## To create a app using FastAPI.
-## Dockerize the API using docker container
+```
+##STEP 1: To create a app using FastAPI.
+```
+```
+##STEP 2: Dockerize the API using docker container.
+```
+```
+##STEP 3: Run the docker file Locally.
+```
+```
+##STEP 4: Upload the Docker Image to Docker Hub and Automate the builds using GITHUB ACTIONS
+```
 
 ```
 docker --version
