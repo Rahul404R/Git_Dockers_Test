@@ -43,11 +43,6 @@ Docker push
 ![image](https://user-images.githubusercontent.com/112580014/194936487-dbb023f9-b587-4949-8168-4ee749e9d638.png)
 
 ```
-Docker rmi rahulr44/welcome_app
-```
-![image](https://user-images.githubusercontent.com/112580014/194936507-4ac21515-60d1-41d2-ab6b-a95b3ebd4ba1.png)
-
-```
 Docker run -d -p 8000:8000 rahulr44/welcome_app
 ```
 ![image](https://user-images.githubusercontent.com/112580014/194936335-07349ebc-b622-489a-924f-fd7ab6cc392d.png)
@@ -56,3 +51,9 @@ Docker run -d -p 8000:8000 rahulr44/welcome_app
 Docker Image hosted webpage
 ```
 ![image](https://user-images.githubusercontent.com/112580014/194937371-56a17d77-c652-4846-942f-1694b9cd268f.png)
+
+```
+Docker rmi rahulr44/welcome_app
+```
+![image](https://user-images.githubusercontent.com/112580014/194936507-4ac21515-60d1-41d2-ab6b-a95b3ebd4ba1.png)
+
