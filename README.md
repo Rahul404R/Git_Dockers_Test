@@ -1,4 +1,5 @@
-## Creating FastAPI using Docker container with github actions.
+## To create a app using FastAPI.
+## Dockerize the API using docker container
 
 ```
 docker --version
@@ -15,11 +16,6 @@ Docker build -t rahulr44/welcome_app .
 Docker images
 ```
 ![image](https://user-images.githubusercontent.com/112580014/194936320-556e3bf4-1e03-418b-924a-aafa414633e5.png)
-
-```
-Docker run -d -p 8000:8000 rahulr44/welcome_app
-```
-![image](https://user-images.githubusercontent.com/112580014/194936335-07349ebc-b622-489a-924f-fd7ab6cc392d.png)
 
 ```
 Docker kill a34531b5d35b
@@ -50,3 +46,13 @@ Docker push
 Docker rmi rahulr44/welcome_app
 ```
 ![image](https://user-images.githubusercontent.com/112580014/194936507-4ac21515-60d1-41d2-ab6b-a95b3ebd4ba1.png)
+
+```
+Docker run -d -p 8000:8000 rahulr44/welcome_app
+```
+![image](https://user-images.githubusercontent.com/112580014/194936335-07349ebc-b622-489a-924f-fd7ab6cc392d.png)
+
+```
+Docker Image hosted webpage
+```
+![image](https://user-images.githubusercontent.com/112580014/194937371-56a17d77-c652-4846-942f-1694b9cd268f.png)
